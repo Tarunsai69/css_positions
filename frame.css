@@ -1,0 +1,254 @@
+h1{
+    text-align: center;
+    text-shadow: 20px 10px 30px goldenrod;
+    text-decoration: underline;
+    border-style: solid;
+    width: 530px;
+    border-radius: 100px;
+    box-shadow: 10px 10px 10px grey;
+    margin-left: 520px;
+    background-color: white;
+}
+body{
+    background-image: url(https://wallpapercave.com/wp/wp8419005.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100vh;
+    width: 50wh;
+    /* opacity: 0.5;
+    z-index: 2; */
+}
+p{
+    font-style: normal;
+    color: white;
+    font-size: xx-large;
+    margin-left: 50px;
+    margin-top: 250px;
+    /* position: absolute;
+    z-index: 1; */
+    /* text-shadow: 10px 10px 5px black; */
+}
+.d1{
+    border-style: solid;
+    border-width: 10px;
+    width: 360px;
+    height: 550px;
+    margin-left: 800px;
+    margin-top: -280px;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    border-top-right-radius: 50px;
+    /* border-bottom-color: coral;
+    border-top-color: crimson;
+    border-left-color: cornflowerblue; */
+    box-shadow: 20px 20px 20px gray;
+}
+.d2{
+    border-style: solid;
+    border-width: px;
+    width: 355px;  
+    margin-left: 810px;
+    margin-top: -490px;
+    border-radius: 50px;
+}
+.d3{
+    border-style: solid;
+    border-width: 5px;
+    width: 359px; 
+    margin-left: 804px;
+    margin-top: -80px;
+    height: 70px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    background-color: azure;
+}
+#p1{
+    margin-top: 20px;
+    margin-left: 113px;
+    color: black;
+    font-weight: bold;
+}
+.d4{
+    margin-left: 810px;
+    margin-top: -65px;
+}
+.d5{
+    border-style: solid;
+    width: 359px;
+    height: 490px;
+    margin-left: 807px;
+    margin-top: -10px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    /* background-image: url(https://e1.pxfuel.com/desktop-wallpaper/664/695/desktop-wallpaper-whatsapp-117-amoled-doodle.jpg);
+    /* background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed; */ */
+    height: 69vh;
+    width: 50wh;
+}
+#p2{
+    border: 3px solid white;
+    width: 140px;
+    text-align:center;
+    border-radius: 50px;
+    background-color: green;
+    margin-top: 20px;
+    margin-left: 10px;
+    font-size:larger;
+}
+.d6{
+    border-style: solid;
+    border-width: 2px;
+    width: 250px; 
+    margin-left: 810px;
+    margin-top: -50px;
+    height: 35px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px; 
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-color: white;
+    color: white; 
+    padding-left: 10px;
+    font-size: larger;
+    background-color: black;
+    position: absolute;
+}
+#p3{
+    border: 3px solid white;
+    width: 140px;
+    text-align:center;
+    border-radius: 50px;
+    background-color: wheat;
+    margin-top: 20px;
+    margin-left: 180px;
+    font-size:larger;
+    color: black;
+}
+#p4{
+    border: 3px solid white;
+    width: 140px;
+    text-align:center;
+    border-radius: 50px;
+    background-color:green;
+    margin-top: 20px;
+    margin-left: 10px;
+    font-size:larger;
+}
+::-webkit-scrollbar
+{
+    display: none;
+}
+#p5{
+    border: 3px solid white;
+    width: 140px;
+    text-align:center;
+    border-radius: 50px;
+    background-color:wheat;
+    margin-top: 20px;
+    margin-left: 180px;
+    font-size:larger;
+    color: black;
+}
+#p6{
+    border: 3px solid white;
+    width: 140px;
+    text-align:center;
+    border-radius: 50px;
+    background-color:green;
+    margin-top: 20px;
+    margin-left: 10px;
+    font-size:larger; 
+}
+#p7{
+    border: 3px solid white;
+    width: 140px;
+    text-align:center;
+    border-radius: 50px;
+    background-color:wheat;
+    margin-top: 20px;
+    margin-left: 180px;
+    font-size:larger; 
+    color: black;
+}
+#p8{
+    border: 3px solid white;
+    width: 140px;
+    text-align:center;
+    border-radius: 50px;
+    background-color:green;
+    margin-top: 20px;
+    margin-left: 10px;
+    font-size:larger;
+}
+#p9{
+    order: 3px solid white;
+    width: 140px;
+    text-align:center;
+    border-radius: 50px;
+    background-color:wheat;
+    margin-top: 20px;
+    margin-left: 180px;
+    font-size:larger;
+    color: black; 
+}
+#t1{
+    overflow: scroll;
+} 
+ #p10{
+    border: 3px solid white;
+    width: 140px;
+    text-align:center;
+    border-radius: 50px;
+    background-color:green;
+    margin-top: 20px;
+    margin-left: 10px;
+    font-size:larger;
+ }
+ #p11{
+    border: 3px solid white;
+    width: 140px;
+    text-align:center;
+    border-radius: 50px;
+    background-color:wheat;
+    margin-top: 20px;
+    margin-left: 180px;
+    font-size:larger;
+    color: black;
+ }
+ #p12{
+    border: 3px solid white;
+    width: 140px;
+    text-align:center;
+    border-radius: 50px;
+    background-color:green;
+    margin-top: 20px;
+    margin-left: 10px;
+    font-size:larger;
+ }
+ #p13{
+    border: 3px solid white;
+    width: 140px;
+    text-align:center;
+    border-radius: 50px;
+    background-color:wheat;
+    margin-top: 20px;
+    margin-left: 180px;
+    font-size:larger;
+    color: black;
+ }
+ #p14{
+    border: 3px solid white;
+    width: 140px;
+    text-align:center;
+    border-radius: 50px;
+    background-color:green;
+    margin-top: 40px;
+    margin-left: 10px;
+    font-size:larger;
+ }
